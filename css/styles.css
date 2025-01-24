@@ -1,0 +1,18 @@
+/* Tag Selecting */
+div{
+    background-color: red;
+}
+/* ID Selecting */
+.other{
+    background-color: yellow;
+}
+/* Class Selecting */
+#text{
+    background-color: green;
+}
+a{
+    color: aqua;
+}
+a:visited{
+    color: #EFB435;
+}
