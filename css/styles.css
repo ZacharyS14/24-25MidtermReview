@@ -2,11 +2,11 @@
 div{
     background-color: red;
 }
-/* ID Selecting */
+/* Class Selecting */
 .other{
     background-color: yellow;
 }
-/* Class Selecting */
+/* ID Selecting */
 #text{
     background-color: green;
 }
